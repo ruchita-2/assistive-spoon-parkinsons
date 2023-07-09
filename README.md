@@ -6,10 +6,7 @@ One of the major symptoms of Parkinson's disease is hand tremors, which can limi
 ## Objectives:
 
 - To develop an assistive spoon using Arduino UNO, MPU 6050 motion sensor, and SG90 servo motor to cancel hand tremors caused by Parkinson's disease.
-
 - To implement an algorithm that interprets tremor data from the motion sensor to provide servo motor control, maintaining spoon stability during meal consumption.
-
-
 
 ## Components Used:
 

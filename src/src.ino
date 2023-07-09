@@ -1,10 +1,13 @@
 // Code 
+
 // Connections:
+
 // Arduino UNO to MPU6050 motion sensor
 // Vcc - Vcc
 // GND - GND
 // A5 - SCL
 // A4 - SDA
+
 // SG90 Servo Motor - Arduino UNO
 // VCC - 5V
 // SIG - D2
